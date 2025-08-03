@@ -62,6 +62,9 @@ This is a beginner-friendly Power BI dashboard I built to explore and analyze sa
 
 > You can find the final dashboard screenshot below. All visuals are aligned cleanly with a minimalistic, easy-to-read design.
 
+## 📊 Dashboard Preview
+
+![Sales Dashboard](Sales_Data.png)
 
 
 ---
