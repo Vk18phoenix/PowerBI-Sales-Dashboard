@@ -1,4 +1,5 @@
-# 📊 Power BI Sales Dashboard Project
+# 📊 Power BI Sales Dashboard — Retail Analysis (2014–2017)
+
 
 This is a beginner-friendly Power BI dashboard I built to explore and analyze sales data from a fictional retail company. The main goal was to visualize important business insights like top-performing regions, sales trends over time, and profitability by category — all in a clean and interactive way.
 
